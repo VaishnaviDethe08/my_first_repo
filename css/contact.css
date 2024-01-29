@@ -1,0 +1,9 @@
+.ice-cream-img {
+    border: 2px solid black;
+    border-radius: 40px;
+    box-shadow: 0 0 5px 7px gray;
+    height: 200px;
+    width: 250px;
+    margin: 30px;
+    padding-left: 10px;
+}

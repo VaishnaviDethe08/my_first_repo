@@ -1,0 +1,10 @@
+.pestry-img {
+    width: 230px;
+    height: 230px;
+    padding-left: 20px;
+    margin: 20px;
+    border: none;
+    border-radius: 30px;
+    box-shadow: 0 0 5px 4px gray;
+
+}
